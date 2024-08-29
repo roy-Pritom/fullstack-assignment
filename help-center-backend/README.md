@@ -75,4 +75,4 @@ Before you run locally, ensure that you must have the following requirements:
    
 Live link backend:https://help-center-backend-kappa.vercel.app
 
-Live site line: https://willowy-bubblegum-1c2aff.netlify.app
+Live site frontend: https://willowy-bubblegum-1c2aff.netlify.app
