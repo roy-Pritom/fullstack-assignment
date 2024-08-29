@@ -38,7 +38,7 @@ const DisplayCard = () => {
                         <p className="text-[#696B6C] text-2xl ">{cards?.data?.length} results for " {searchTerm}"</p>
                     </div>
                 }
-                  <div className="grid md:grid-cols-2 grid-cols-1 gap-y-20 gap-x-10 max-w-6xl w-full mx-auto">
+                  <div className="grid md:grid-cols-2 grid-cols-1 md:gap-y-20 gap-y-14 gap-x-10 max-w-6xl w-full mx-auto">
                     {currentCards?.map((card: TCard) => (
                         <Card card={card} key={card.id} />
                     ))}
