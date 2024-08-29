@@ -47,4 +47,7 @@ export default tseslint.config({
     ...react.configs['jsx-runtime'].rules,
   },
 })
+
+Live link: https://willowy-bubblegum-1c2aff.netlify.app
+
 ```
