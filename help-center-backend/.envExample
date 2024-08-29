@@ -1,0 +1,2 @@
+PORT=put_your_Port
+DATABASE_URL=put_your_mongodb_uri
